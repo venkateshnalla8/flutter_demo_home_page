@@ -1,0 +1,8 @@
+
+
+class Strings{
+  static String name = "Dhoni Biographi";
+  static String para_one = "Mahendra Singh Dhoni is one of the most well-known cricketers in the world and one of the most successful cricketers in Indian history. He is also the only captain to have won all three major ICC trophies: the World Cup (2011), the Champions Trophy (2013), and the World Twenty20 (2007). He holds the record for most matches as captain in Tests+ODIs+T20Is.";
+  static String para_two = "Dhoni attended school in Shyamali, near Ranchi, Jharkhand. He was an exemplary student-athlete but initially preferred badminton and football, where he served as his school’s goalkeeper. Between 1995 and 1998, his football coach introduced him to cricket as a wicketkeeper, marking the beginning of his cricketing journey. He played for the Commando Cricket Club and soon after, made it to the Vinoo Mankad Trophy Under-16 Championship team.";
+  static String para_three = "MS Dhoni entered the international cricket scene in 2004 when he played for India against Bangladesh. Later that year, he was chosen for a tour of Zimbabwe and Kenya. In 2005, he made his Test debut against Sri Lanka. Dhoni’s performance in the 2007 T20 World Cup brought him to prominence as he led India to victory against Pakistan in the final. In 2008, he became the captain of India’s ODI team, making him one of the youngest captains in history.";
+}
